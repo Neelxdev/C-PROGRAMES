@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "CONCATENATE.C": "cpp",
+        "DATE&TIME.C": "cpp",
+        "GOTO.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
